@@ -1,0 +1,95 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+body{
+	background-image: url('../images/background.jpg');
+	height: 100%;
+	width: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+	border-radius: 10px;
+	margin: 5px 0px;
+	padding: 5px;
+}
+#link{
+	/*display: none;*/
+	margin:1vh;
+}
+.btn{
+	font-size: 1.5em;
+}
+.caption{
+	font-size: 1.5em;
+}
+.data{
+	margin: 3vh 0;
+	overflow-wrap: break-word;
+}
+.error{
+	font-size:15px;
+	color:#cc0000; 
+	margin-top:10px;
+	background-color: yellow;
+}
+.form{
+	margin:5vh 0;
+}
+.heading{
+	font-size: 5em;
+	margin:3vh 0px;
+	padding: 5px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.heading:hover{
+	background-color: rgba(86,86,86,0.2);
+}
+.link{
+	margin: 10vh 0;
+	font-size: 1.5em;
+}
+.opt{
+	padding: 5px;
+	font-size: 1em;
+}
+.opt:hover{
+	color:gray;
+	cursor: pointer;
+}
+.pastes{
+	background-color: white;
+	font-size: 1.5em;
+	border-radius: 10px;
+}
+.sign{
+	margin:3vh 0px;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+.s_in,.s_up{
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+}
+.s_in:hover,.s_up:hover{
+	color:gray;
+}
+.tarea{
+	margin:3vh 0px;
+}
+.text{
+	position: absolute;
+	top:7%;
+	left:50%;
+	right:3%;
+	text-align: center;
+}
+.wel{
+	font-style: italic;
+	font-size: 1.2em;
+}
